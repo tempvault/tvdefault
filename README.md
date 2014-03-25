@@ -2,7 +2,7 @@
 
 The default template of Template Vault ported to WordPress.
 
-![Template Vault Default Theme Screenshot](//i.imgur.com/2WVKQDr.png)
+![Template Vault Default Theme Screenshot](https://i.imgur.com/2WVKQDr.png)
 
 ### How to install:
 
